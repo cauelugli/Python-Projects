@@ -49,7 +49,7 @@ Todo comentário e sugestão é válida, tudo pelo aprendizado!
 Poka :  de acordo!
 Cassio:
 PH:
-Dedé:
+Dedé: de acordo!!
 Sapão:
 
 ###############################################################################
