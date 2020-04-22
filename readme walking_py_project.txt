@@ -47,8 +47,8 @@ Todo comentário e sugestão é válida, tudo pelo aprendizado!
 3) Assinaturas
 
 Poka :  de acordo!
-Cassio:
-PH:
+Cassio: não vai participar
+PH: não vai participar
 Dedé: de acordo!!
 Sapão:
 
