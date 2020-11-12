@@ -1,2 +1,3 @@
 # Python-Projects
-Python Projects with API, Arduino and more
+
+Some nasty Python projects around API, Arduino and more
