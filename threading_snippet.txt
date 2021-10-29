@@ -1,0 +1,18 @@
+import threading
+
+def do_it_faster():
+	while True:
+		print('hello world, but faster')
+
+threads = []
+
+for i in range(50):
+	t = threading.Thread(target=do_it_faster)
+	t.daemon = True
+	threads.append(t)
+
+for i in range(50):
+	threads[i].start()
+
+for i in range(50):
+	threads[i].join()
